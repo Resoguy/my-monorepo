@@ -21,7 +21,6 @@
 	"repository": "https://github.com/resoguy/my-monorepo",
 	"publishConfig": {
 		"access": "public",
-		"@resoguy:registry": "https://npm.pkg.github.com",
-		"directory": "dist"
+		"@resoguy:registry": "https://npm.pkg.github.com"
 	}
 }
