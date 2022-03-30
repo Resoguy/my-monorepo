@@ -1,6 +1,6 @@
 {
 	"name": "@my-monorepo/ui",
-	"version": "1.0.10",
+	"version": "1.0.11",
 	"main": "./dist",
 	"types": "./index.tsx",
 	"license": "MIT",
@@ -22,6 +22,5 @@
 	"publishConfig": {
 		"access": "public",
 		"@resoguy:registry": "https://npm.pkg.github.com"
-	},
-	"gitHead": "81677cebdcfc0b9d855bdf001e857d5617c09c7b"
+	}
 }
