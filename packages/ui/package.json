@@ -1,5 +1,5 @@
 {
-	"name": "@my-monorepo/ui",
+	"name": "@resoguy/my-ui",
 	"version": "1.0.14",
 	"main": "./dist",
 	"types": "./index.tsx",
@@ -23,5 +23,5 @@
 		"access": "public",
 		"@resoguy:registry": "https://npm.pkg.github.com"
 	},
-	"gitHead": "044fd65b344147afefe793581c24cacf60d133d7"
+	"gitHead": "6d5818069c9c4c05024707a17e15168c57fba46b"
 }
