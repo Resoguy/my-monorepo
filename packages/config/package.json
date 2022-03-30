@@ -1,5 +1,5 @@
 {
-	"name": "config",
+	"name": "@my-monorepo/config",
 	"version": "0.0.7",
 	"main": "index.js",
 	"license": "MIT",
