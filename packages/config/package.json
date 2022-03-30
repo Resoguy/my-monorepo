@@ -1,15 +1,16 @@
 {
-  "name": "config",
-  "version": "0.0.6",
-  "main": "index.js",
-  "license": "MIT",
-  "files": [
-    "eslint-preset.js"
-  ],
-  "dependencies": {
-    "eslint-config-next": "^12.0.8",
-    "eslint-config-prettier": "^8.3.0",
-    "eslint-plugin-react": "7.28.0"
-  },
-  "gitHead": "af77068f76b3200f6ff82c5734635a1634f204f6"
+	"name": "config",
+	"version": "0.0.6",
+	"main": "index.js",
+	"license": "MIT",
+	"private": true,
+	"files": [
+		"eslint-preset.js"
+	],
+	"dependencies": {
+		"eslint-config-next": "^12.0.8",
+		"eslint-config-prettier": "^8.3.0",
+		"eslint-plugin-react": "7.28.0"
+	},
+	"gitHead": "044fd65b344147afefe793581c24cacf60d133d7"
 }
